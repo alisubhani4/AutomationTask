@@ -1,0 +1,923 @@
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima.deps.json
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Assima.pdb
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.pdb
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/Assima/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/ExtentReports.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/usamarashid/Desktop/Assima/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima.deps.json
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Assima.pdb
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ExtentReports.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/AssimaTrain/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/AssimaTrain/obj/Debug/netcoreapp3.1/Assima.pdb
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.deps.json
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.pdb
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ExtentReports.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/usamarashid/Desktop/asm-tt-demo/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.dll
+/Users/usamarashid/Desktop/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.pdb
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.exe
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.deps.json
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.pdb
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/DnsClient.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ExtentReports.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/testhost.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.framework.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/asm-tt-demo/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.dll
+c:/Users/Tintash/Documents/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.pdb
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.exe
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.deps.json
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.pdb
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/DnsClient.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ExtentReports.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/testhost.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.framework.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.dll
+c:/Users/Tintash/Documents/Automation Project/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.pdb
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.exe
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.deps.json
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.pdb
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/DnsClient.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/SeleniumExtras.WaitHelpers.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ExtentReports.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/testhost.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.framework.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CoreCompileInputs.cache
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.dll
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.pdb
+C:/Users/testuseriber/Documents/Projects/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.genruntimeconfig.cache
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.deps.json
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Assima.pdb
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/SeleniumExtras.WaitHelpers.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ExtentReports.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.dll
+/Users/ali/Documents/assimademo4/asm-tt-demo/obj/Debug/netcoreapp3.1/Assima.pdb
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/NUnit3.TestAdapter.pdb
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/nunit.engine.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/nunit.engine.api.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima.deps.json
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.json
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima.runtimeconfig.dev.json
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Assima.pdb
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/DnsClient.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/SeleniumExtras.WaitHelpers.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ExtentReports.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.Web.Razor.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Html.Abstractions.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Runtime.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.DotNet.InternalAbstractions.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.Utilities.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/testhost.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/MongoDB.Bson.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/MongoDB.Driver.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/MongoDB.Driver.Core.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/NuGet.Frameworks.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/nunit.framework.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/RazorEngine.NetCore.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/WebDriver.Support.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.CodeDom.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.Security.Permissions.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/System.Xml.XPath.XmlDocument.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ali/Documents/Scopic/AutomationTask/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.csprojAssemblyReference.cache
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.AssemblyInfoInputs.cache
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.AssemblyInfo.cs
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.csproj.CopyComplete
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.dll
+/Users/ali/Documents/Scopic/AutomationTask/obj/Debug/netcoreapp3.1/Assima.pdb
