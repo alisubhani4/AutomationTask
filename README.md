@@ -38,4 +38,11 @@
 
 - Now we are all setup
 - Run the test by executing the following command in the terminal
+
   > dotnet test
+
+- For individually running a test case click run button under the order number of a test case.
+
+- In the data folder, You can add login credentials in "credentials.csv" file and sign up credentials in SignupCredentials.csv file.
+
+- Reports indicating results of test case execution are genertaed under "generated reports" folder.
