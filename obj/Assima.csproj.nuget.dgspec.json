@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ali/Documents/assimademo4/asm-tt-demo/Assima.csproj": {}
+    "/Users/ali/Documents/Scopic/AutomationTask/Assima.csproj": {}
   },
   "projects": {
-    "/Users/ali/Documents/assimademo4/asm-tt-demo/Assima.csproj": {
+    "/Users/ali/Documents/Scopic/AutomationTask/Assima.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ali/Documents/assimademo4/asm-tt-demo/Assima.csproj",
+        "projectUniqueName": "/Users/ali/Documents/Scopic/AutomationTask/Assima.csproj",
         "projectName": "Assima",
-        "projectPath": "/Users/ali/Documents/assimademo4/asm-tt-demo/Assima.csproj",
+        "projectPath": "/Users/ali/Documents/Scopic/AutomationTask/Assima.csproj",
         "packagesPath": "/Users/ali/.nuget/packages/",
-        "outputPath": "/Users/ali/Documents/assimademo4/asm-tt-demo/obj/",
+        "outputPath": "/Users/ali/Documents/Scopic/AutomationTask/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ali/.nuget/NuGet/NuGet.Config"

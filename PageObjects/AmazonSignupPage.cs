@@ -19,88 +19,92 @@ namespace AssimaDemo.PageObjects
             _driver = driver;
         }
         public By textfield_Name = By.XPath("//*[contains(text(),'Your name')]/following-sibling::input");
-        public By btn_Capture = By.XPath("//*[text()='Capture']");
-        public By btn_AddActions = By.XPath("//*[text()='Add Actions']");
-        public By btn_proj = By.XPath("//a[text()='va01']");
-        public By btn_practice_proj = By.XPath("//a[text()='va01 - Practice']");
-        public By txt_Tttle = By.Id("LeftContent_MessageTitle");
-        public By btn_stop = By.XPath("//*[text()='Stop']");
-
-        public By btn_delete = By.XPath("//*[@class='assima__treeNode  main']/parent::*/child::li[last()]/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::*/child::li[@class='action delete']");
-        public By count = By.XPath("//*[@class='assima__treeNode  main']/parent::*/child::*");
-        public By last_item = By.XPath("//*[@class='assima__treeNode  main']/parent::*/child::li[last()]");
-
-        public By txt_ActionEditorTitle = By.XPath("//h1[@id='LeftContent_MessageTitle']");
+        public By textfield_Email = By.XPath("//*[@name='email']");
+        public By btn_VerifyEmail = By.XPath("//*[text()='Verify email']");
+        public By btn_Continue = By.XPath("//*[@id='continue']");
+        public By txt_InvalidEmail = By.XPath("//*[contains(text(),'Invalid email')]");
+        public By txt_EmptyEmailError = By.XPath("//*[contains(text(),'Enter your email')]");
+        public By txt_EmptyPasswordError = By.XPath("//*[contains(text(),'Minimum 6 characters required')]");
+        public By txtfield_Password = By.XPath("//*[contains(text(),'Password')]/following-sibling::input");
+        public By txt_EmptyReEnterPassword = By.XPath("//*[contains(text(),'Type your password again')]");
+        public By txtfield_ReEnterPassword = By.XPath("//*[contains(text(),'Re-enter password')]/following-sibling::input");
+        public By txt_SignUpFormSubmitted = By.XPath("//*[contains(text(),'Solve this puzzle')]");
 
         public IWebElement findElement(OpenQA.Selenium.By element)
         {
             return _driver.FindElement(element);
         }
-        public bool btn_ActionEditorTitle_Exists()
+
+        public bool textfield_Email_exists()
         {
-            return _driver.FindElement(txt_ActionEditorTitle).Displayed;
+            return _driver.FindElement(textfield_Email).Displayed;
         }
-        public int count_elements()
+        public bool exists_txt_SignUpFormSubmitted()
         {
-            return _driver.FindElements(count).Count();
+            return _driver.FindElement(txt_SignUpFormSubmitted).Displayed;
+        }
+        public bool exists_txtfield_Password()
+        {
+            return _driver.FindElement(txtfield_Password).Displayed;
+        }
+        public bool exists_txtfield_ReEnterPassword()
+        {
+            return _driver.FindElement(txtfield_ReEnterPassword).Displayed;
+        }
+        public bool exists_txt_EmptyReEnterPassword()
+        {
+            return _driver.FindElement(txt_EmptyReEnterPassword).Displayed;
+        }
+        public bool exists_btn_Continue()
+        {
+            return _driver.FindElement(btn_Continue).Displayed;
+        }
+        public bool exists_txt_EmptyPasswordError()
+        {
+            return _driver.FindElement(txt_EmptyPasswordError).Displayed;
+        }
+        public bool exists_txt_EmptyEmailError()
+        {
+            return _driver.FindElement(txt_EmptyEmailError).Displayed;
+        }
+        public bool btn_VerifyEmail_exists()
+        {
+            return _driver.FindElement(btn_VerifyEmail).Displayed;
+        }
+        public bool exists_txt_InvalidEmail()
+        {
+            return _driver.FindElement(txt_InvalidEmail).Displayed;
         }
 
-        public bool btn_Capture_Exists()
-        {
-            return _driver.FindElement(btn_Capture).Displayed;
-        }
-        public bool exists_btn_proj()
-        {
-            return _driver.FindElement(btn_proj).Displayed;
-        }
         public bool exists_textfield_Name()
         {
             return _driver.FindElement(textfield_Name).Displayed;
         }
-        public bool exists_btn_practice_proj()
+
+        public void clk_btn_Continue()
         {
-            return _driver.FindElement(btn_practice_proj).Displayed;
-        }
-        public bool exists_btn_delete()
-        {
-            return _driver.FindElement(btn_delete).Displayed;
-        }
-        public bool exists_last_item()
-        {
-            return _driver.FindElement(last_item).Displayed;
-        }
-        public bool btn_AddActions_Exists()
-        {
-            return _driver.FindElement(btn_AddActions).Displayed;
-        }
-        public void clk_btn_delete()
-        {
-            _driver.FindElement(btn_delete).Click();
-        }
-        public void clk_last_item()
-        {
-            _driver.FindElement(last_item).Click();
-        }
-        public void clk_btn_Capture()
-        {
-            _driver.FindElement(btn_Capture).Click();
+            _driver.FindElement(btn_Continue).Click();
         }
 
-        public void clk_btn_AddActions()
-        {
-            _driver.FindElement(btn_AddActions).Click();
-        }
-        public void clk_btn_proj()
-        {
-            _driver.FindElement(btn_proj).Click();
-        }
-        public void clk_btn_practice_proj()
-        {
-            _driver.FindElement(btn_practice_proj).Click();
-        }
         public void sendkeys_textfield_Name(string text)
         {
             _driver.FindElement(textfield_Name).SendKeys(text);
+        }
+        public void sendkeys_textfield_Email(string text)
+        {
+            _driver.FindElement(textfield_Email).SendKeys(text);
+        }
+        public void clk_btn_VerifyEmail()
+        {
+            _driver.FindElement(btn_VerifyEmail).Click();
+        }
+        public void sendkeys_txtfield_Password(string text)
+        {
+            _driver.FindElement(txtfield_Password).SendKeys(text);
+        }
+        public void sendkeys_txtfield_ReEnterPassword(string text)
+        {
+            _driver.FindElement(txtfield_ReEnterPassword).SendKeys(text);
         }
 
     }
